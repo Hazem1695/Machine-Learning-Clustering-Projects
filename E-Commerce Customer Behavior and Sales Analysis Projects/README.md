@@ -3,8 +3,8 @@ To maintain consistency and focus on understanding each model deeply, this proje
 
 | Day    | Model Name                   | Publish Date    | Status      |
 | ------ | ---------------------------  | --------------- | ----------- |
-| 1      | KMeans Clustering            | 2026-05-22      | Planned     |
-| 2      | Hierarchical Clustering      | 2026-05-23      | In Progress |
+| 1      | KMeans Clustering            | 2026-05-25      | Completed   |
+| 2      | Hierarchical Clustering      | TBD             | In Progress |
 
 
 - In Progress – Currently being worked on

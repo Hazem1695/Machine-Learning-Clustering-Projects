@@ -11,14 +11,19 @@ Each project is organized in a separate folder and includes:
 - Separate notebooks for each model and experiment
 
 ## Repository Structure
-```
+
+```text
 Machine-Learning-Clustering-Projects/
 │
-├── E-Commerce Customer Behavior and Sales Analysis Projects/
-|   ├──1- Kmeans Clustering Model.ipynb
+├── E-Commerce-Customer-Segmentation/
+│   ├── 1- Kmeans Clustering Model.ipynb
+|   ├── 2- Hierarchical Clustering Model.ipynb
 │   ├── README.md
+│
+│
 └── README.md
 ```
+
 ## Algorithms Covered
 
 The repository may include experiments with:
